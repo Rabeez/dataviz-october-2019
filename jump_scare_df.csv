@@ -1,0 +1,544 @@
+movie_name,director,year,jump_count,jump_scare_rating,netflix_us,imdb,url
+10 Cloverfield Lane,Dan Trachtenberg,2016,8,2.5,No,7.3,https://wheresthejump.com/jump-scares-in-10-cloverfield-lane-2016/
+28 Days Later,Danny Boyle,2003,10,3,No,7.6,https://wheresthejump.com/jump-scares-in-28-days-later-2002/
+28 Weeks Later,Juan Carlos Fresnadillo,2007,17,3.5,No,7,https://wheresthejump.com/jump-scares-in-28-weeks-later-2007/
+30 Days of Night,David Slade,2007,9,2.5,No,6.6,https://wheresthejump.com/jump-scares-in-30-days-of-night-2007/
+31,Rob Zombie,2016,8,2.5,No,5.8,https://wheresthejump.com/jump-scares-in-31-2016/
+47 Meters Down,Johannes Roberts,2017,11,3,Yes,5.7,https://wheresthejump.com/jump-scares-in-47-meters-down-2017/
+1408,Mikael Håfström,2007,8,3,No,6.8,https://wheresthejump.com/jump-scares-in-1408-2007/
+1922,Zak Hilditch,2017,2,1,Yes,6.5,https://wheresthejump.com/jump-scares-in-1922-2017/
+A Cure for Wellness,Gore Verbinski,2016,6,1.5,No,6.5,https://wheresthejump.com/jump-scares-in-a-cure-for-wellness-2016/
+A Ghost Story,David Lowery,2017,3,1,No,7,https://wheresthejump.com/jump-scares-in-a-ghost-story-2017/
+A Girl Walks Home Alone at Night,Ana Lily Amirpour,2014,0,0,No,7.1,https://wheresthejump.com/jump-scares-in-a-girl-walks-home-alone-at-night-2014/
+A Nightmare on Elm Street,Wes Craven,1984,11,2.5,No,7.5,https://wheresthejump.com/jump-scares-in-a-nightmare-on-elm-street-1984/
+A Nightmare on Elm Street,Samuel Bayer,2010,15,3,No,5.2,https://wheresthejump.com/jump-scares-in-a-nightmare-on-elm-street-2010/
+A Nightmare on Elm Street 2: Freddy's Revenge,Jack Sholder,1985,8,2,No,5.3,https://wheresthejump.com/jump-scares-in-a-nightmare-on-elm-street-ii-freddys-revenge-1985/
+A Nightmare on Elm Street 3: Dream Warriors,Chuck Russell,1987,11,2.5,No,6.5,https://wheresthejump.com/jump-scares-in-a-nightmare-on-elm-street-iii-dream-warriors-1987/
+A Quiet Place,John Krasinski,2018,14,4,No,7.8,https://wheresthejump.com/jump-scares-in-a-quiet-place-2018/
+A Tale of Two Sisters,Jee-woon Kim,2003,14,3,No,7.3,https://wheresthejump.com/jump-scares-in-a-tale-of-two-sisters-2003/
+Absentia,Mike Flanagan,2011,8,2,No,5.8,https://wheresthejump.com/jump-scares-in-absentia-2011/
+Alien,Ridley Scott,1979,11,2.5,No,8.5,https://wheresthejump.com/jump-scares-in-alien-1979/
+Alien: Covenant,Ridley Scott,2017,6,2,No,6.7,https://wheresthejump.com/jump-scares-in-alien-covenant-2017/
+Alien 3,David Fincher,1992,12,2.5,No,6.4,https://wheresthejump.com/jump-scares-in-alien-iii-1992/
+Alien: Resurrection,Jean-Pierre Jeunet,1997,9,3,No,6.3,https://wheresthejump.com/jump-scares-in-alien-resurrection-1997/
+Aliens,James Cameron,1986,13,3,No,8.4,https://wheresthejump.com/jump-scares-in-aliens-1986/
+Alone,"Banjong Pisanthanakun, Parkpoom Wongpoom",2007,21,4.5,No,6.6,https://wheresthejump.com/jump-scares-in-alone-2007/
+Altered States,Ken Russell,1980,2,0.5,No,6.9,https://wheresthejump.com/jump-scares-in-altered-states-1980/
+Amityville: The Awakening,Franck Khalfoun,2017,11,3,No,5.2,https://wheresthejump.com/jump-scares-in-amityville-the-awakening-2017/
+Amnesiac,Michael Polish,2015,1,0.5,No,4.3,https://wheresthejump.com/jump-scares-in-amnesiac-2015/
+An American Werewolf in London,James Landis,1981,14,3,No,7.6,https://wheresthejump.com/jump-scares-in-an-american-werewolf-in-london-1981/
+An American Werewolf in Paris,Anthony Waller,1997,11,2.5,No,5.1,https://wheresthejump.com/jump-scares-in-an-american-werewolf-in-paris-1997/
+Anaconda,Luis Llosa,1997,9,2,No,4.6,https://wheresthejump.com/jump-scares-in-anaconda-1997/
+Anna,Jorge Dorado,2013,5,1,No,6.5,https://wheresthejump.com/jump-scares-in-anna-2013/
+Annabelle,John R. Leonetti,2014,11,3.5,No,5.4,https://wheresthejump.com/jump-scares-in-annabelle-2014/
+Annabelle Comes Home,Gary Dauberman,2019,20,4,No,6,https://wheresthejump.com/jump-scares-in-annabelle-comes-home-2019/
+Annabelle: Creation,David F. Sandberg,2017,23,4.5,No,6.8,https://wheresthejump.com/jump-scares-in-annabelle-creation-2017/
+Annihilation,Alex Garland,2018,4,1.5,Yes,7.8,https://wheresthejump.com/jump-scares-in-annihilation-2018/
+Apollo 18,Gonzalo López-Gallego,2011,10,3,No,5.2,https://wheresthejump.com/jump-scares-in-apollo-18-2011/
+Apostle,Gareth Evans,2018,5,1.5,Yes,6.6,https://wheresthejump.com/jump-scares-in-apostle-2018/
+Army of Darkness,Sam Raimi,1992,9,2,No,7.6,https://wheresthejump.com/jump-scares-in-army-of-darkness-1992/
+Arrival,Denis Villeneuve,2016,3,0.5,No,7.3,https://wheresthejump.com/jump-scares-in-arrival-2016/
+"As Above, So Below",John Erick Dowdle,2014,7,3,Yes,6.1,https://wheresthejump.com/jump-scares-in-as-above-so-below-2014/
+Attack the Block,Joe Cornish,2011,12,3,No,6.6,https://wheresthejump.com/jump-scares-in-attack-the-block-2011/
+Audition,Takashi Miike,1999,1,0.5,No,7.2,https://wheresthejump.com/jump-scares-in-audition-1999/
+Backcountry,Adam MacDonald,2014,4,0.5,Yes,6,https://wheresthejump.com/jump-scares-in-backcountry-2014/
+Backtrack,Michael Petroni,2015,14,3.5,No,5.9,https://wheresthejump.com/jump-scares-in-backtrack-2015/
+Banshee Chapter,Blair Erickson,2013,22,5,No,5.5,https://wheresthejump.com/jump-scares-in-banshee-chapter-2013/
+Before I Wake,Mike Flanagan,2016,9,3,Yes,6.1,https://wheresthejump.com/jump-scares-in-before-i-wake-2016/
+Berberian Sound Studio,Peter Strickland,2012,0,0,No,6.2,https://wheresthejump.com/jump-scares-in-berberian-sound-studio-2012/
+Berlin Syndrome,Cate Shortland,2017,1,0.5,No,6.3,https://wheresthejump.com/jump-scares-in-berlin-syndrome-2017/
+Better Watch Out,Chris Peckover,2016,11,2.5,No,6.9,https://wheresthejump.com/jump-scares-in-better-watch-out-2016/
+Bird Box,Susanne Bier,2018,4,0.5,Yes,6.8,https://wheresthejump.com/jump-scares-in-bird-box-2018/
+Black Christmas,Bob Clark,1974,4,1.5,No,7.2,https://wheresthejump.com/jump-scares-in-black-christmas-1974/
+Black Swan,Darren Aronofsky,2010,10,3,No,8,https://wheresthejump.com/jump-scares-in-black-swan-2010/
+Blade,Stephen Norrington,1998,1,1,No,7.1,https://wheresthejump.com/jump-scares-in-blade-1998/
+Blair Witch,Adam Wingard,2016,18,4,No,5,https://wheresthejump.com/jump-scares-in-blair-witch-2016/
+Bone Tomahawk,S. Craig Zahler,2015,0,0,No,7.1,https://wheresthejump.com/jump-scares-in-bone-tomahawk-2015/
+Bram Stoker's Dracula,Francis Ford Coppola,1992,1,0.5,No,7.5,https://wheresthejump.com/jump-scares-in-bram-stokers-dracula-1992/
+Bride of Chucky,Ronny Yu,1998,11,2,No,5.3,https://wheresthejump.com/jump-scares-in-bride-of-chucky-1998/
+Cabin Fever,Eli Roth,2002,10,2.5,No,5.6,https://wheresthejump.com/jump-scares-in-cabin-fever-2002/
+Cam,Daniel Goldhaber,2018,1,0.5,Yes,6,https://wheresthejump.com/jump-scares-in-cam-2018/
+Candyman,Bernard Rose,1992,16,4,No,6.6,https://wheresthejump.com/jump-scares-in-candyman-1992/
+Cape Fear,Martin Scorsese,1991,4,1.5,No,7.3,https://wheresthejump.com/jump-scares-in-cape-fear-1991/
+Cargo,"Ben Howling, Yolanda Ramke",2017,2,0.5,Yes,6.8,https://wheresthejump.com/jump-scares-in-cargo-2017/
+Carrie,Brian De Palma,1976,1,0.5,No,7.4,https://wheresthejump.com/jump-scares-in-carrie-1976/
+Carrie,Kimberly Peirce,2013,4,1,No,5.9,https://wheresthejump.com/jump-scares-in-carrie-2013/
+Case 39,Christian Alvart,2009,9,2,No,6.2,https://wheresthejump.com/jump-scares-in-case-39-2009/
+Cat People,Jacques Tourneur,1942,2,1,No,7.4,https://wheresthejump.com/jump-scares-in-cat-people-1942/
+Cell,Tod Williams,2016,5,2,No,4.3,https://wheresthejump.com/jump-scares-in-cell-2016/
+Chernobyl Diaries,Bradley Parker,2012,16,3.5,Yes,5,https://wheresthejump.com/jump-scares-in-chernobyl-diaries-2012/
+Children of the Corn,Fritz Kiersch,1984,8,3,No,5.6,https://wheresthejump.com/jump-scares-in-children-of-the-corn-1984/
+Child's Play,Tom Holland,1988,8,2.5,No,6.5,https://wheresthejump.com/jump-scares-in-childs-play-1988/
+Cloverfield,Matt Reeves,2008,7,2,No,7,https://wheresthejump.com/jump-scares-in-cloverfield-2008/
+Clown,Jon Watts,2014,11,3,No,5.6,https://wheresthejump.com/jump-scares-in-clown-2014/
+Cooties,"Jonathan Milott, Cary Murnion",2014,15,3,No,5.8,https://wheresthejump.com/jump-scares-in-cooties-2014/
+Creep,Patrick Kack-Brice,2014,10,3,Yes,6.2,https://wheresthejump.com/jump-scares-in-creep-2014/
+Creep 2,Patrick Brice,2017,6,2,Yes,6.3,https://wheresthejump.com/jump-scares-in-creep-ii-2017/
+Crimson Peak,Guillermo del Toro,2015,9,2.5,No,6.6,https://wheresthejump.com/jump-scares-in-crimson-peak-2015/
+Cube,Vincenzo Natali,1997,1,0.5,No,7.3,https://wheresthejump.com/jump-scares-in-cube-1997/
+Cujo,Lewis Teague,1983,4,1,No,6,https://wheresthejump.com/jump-scares-in-cujo-1983/
+Cult of Chucky,Don Mancini,2017,14,3.5,Yes,5.2,https://wheresthejump.com/jump-scares-in-cult-of-chucky-2017/
+Cyberbully,Ben Chanan,2015,1,1,No,7,https://wheresthejump.com/jump-scares-in-cyberbully-2015/
+Dark Shadows,Tim Burton,2012,2,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-dark-shadows-2012/
+Dark Skies,Scott Stewart,2013,11,2.5,No,6.3,https://wheresthejump.com/jump-scares-in-dark-skies-2013/
+Dark Was The Night,Jack Heller,2014,16,3,No,5.6,https://wheresthejump.com/jump-scares-in-dark-was-the-night-2014/
+Dark Water,Walter Salles,2005,7,2,No,5.5,https://wheresthejump.com/jump-scares-in-dark-water-2005/
+Dawn of the Dead,Zack Synder,2004,10,2,No,7.4,https://wheresthejump.com/jump-scares-in-dawn-of-the-dead-2004/
+Day of the Dead,George A. Romero,1985,10,3,No,7.2,https://wheresthejump.com/jump-scares-in-day-of-the-dead-1985/
+Dead Alive,Peter Jackson,1992,3,1,No,7.6,https://wheresthejump.com/jump-scares-in-dead-alive-1992/
+Dead Calm,Phillip Noyce,1989,2,1,No,6.8,https://wheresthejump.com/jump-scares-in-dead-calm-1989/
+Dead End,"Jean-Baptiste Andrea, Fabrice Canepa",2003,9,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-dead-end-2003/
+Dead Silence,James Wan,2007,15,4,No,6.2,https://wheresthejump.com/jump-scares-in-dead-silence-2007/
+Death Note,Adam Wingard,2017,6,1.5,Yes,4.6,https://wheresthejump.com/jump-scares-in-death-note-2017/
+Deathgasm,Jason Lei Howden,2015,7,2,No,6.3,https://wheresthejump.com/jump-scares-in-deathgasm-2015/
+Deep Blue Sea,Renny Harlin,1999,10,2.5,No,5.8,https://wheresthejump.com/jump-scares-in-deep-blue-sea-1999/
+Deep Red,Dario Argento,1975,7,1.5,No,7.7,https://wheresthejump.com/jump-scares-in-deep-red-1975/
+Deliver Us From Evil,Scott Derrickson,2014,16,4,No,6.2,https://wheresthejump.com/jump-scares-in-deliver-us-from-evil-2014/
+Dementia,Mike Testin,2015,0,0,No,5,https://wheresthejump.com/jump-scares-in-dementia-2015/
+Demonic,Will Canon,2015,17,4,Yes,5.3,https://wheresthejump.com/jump-scares-in-demonic-2015/
+Devil,John Erick Dowdle,2010,4,1.5,No,6.3,https://wheresthejump.com/jump-scares-in-devil-2010/
+Devil's Due,"Matt Bettinelli-Olpin, Tyler Gillett",2014,13,3,No,4.1,https://wheresthejump.com/jump-scares-in-devils-due-2014/
+Devil's Pass,Renny Harlin,2013,10,2.5,No,5.7,https://wheresthejump.com/jump-scares-in-devils-pass-2013/
+Dismissed,Benjamin Arfmann,2017,0,0,No,5.8,https://wheresthejump.com/jump-scares-in-dismissed-2017/
+Disturbia,D.J. Caruso,2007,13,3,No,6.9,https://wheresthejump.com/jump-scares-in-disturbia-2007/
+Dog Soldiers,Neil Marshall,2002,13,3,No,6.8,https://wheresthejump.com/jump-scares-in-dog-soldiers-2002/
+Donnie Darko,Richard Kelly,2001,3,1,No,8.1,https://wheresthejump.com/jump-scares-in-donnie-darko-2001/
+Don't Be Afraid of the Dark,Troy Nixey,2010,8,3,No,5.6,https://wheresthejump.com/jump-scares-in-dont-be-afraid-of-the-dark-2010/
+Don't Breathe,Fede Alvarez,2016,17,3.5,No,7.2,https://wheresthejump.com/jump-scares-in-dont-breathe-2016/
+Don't Knock Twice,Caradog W. James,2016,19,3.5,No,5.2,https://wheresthejump.com/jump-scares-in-dont-knock-twice-2016/
+Doom,Andrzej Bartkowiak,2005,15,3.5,Yes,5.2,https://wheresthejump.com/jump-scares-in-doom-2005/
+Dracula Untold,Gary Shore,2014,4,1,No,6.3,https://wheresthejump.com/jump-scares-in-dracula-untold-2014/
+Drag Me To Hell,Sam Raimi,2009,23,4.5,No,6.6,https://wheresthejump.com/jump-scares-in-drag-me-to-hell-2009/
+Dreamcatcher,Lawrence Kasdan,2003,11,3,No,5.5,https://wheresthejump.com/jump-scares-in-dreamcatcher-2003/
+Eden Lake,James Watkins,2008,3,1,No,6.8,https://wheresthejump.com/jump-scares-in-eden-lake-2008/
+Elle,Paul Verhoeven,2016,7,2,No,7.3,https://wheresthejump.com/jump-scares-in-elle-2016/
+Emelie,Michael Thelin,2015,3,0.5,Yes,5.4,https://wheresthejump.com/jump-scares-in-emelie-2015/
+Escape Room,Adam Robitel,2019,4,1.5,No,6.3,https://wheresthejump.com/jump-scares-in-escape-room-2019/
+Europa Report,Sebastián Cordero,2013,1,0.5,No,6.5,https://wheresthejump.com/jump-scares-in-europa-report-2013/
+Event Horizon,Paul W.S. Anderson,1997,11,3,No,6.7,https://wheresthejump.com/jump-scares-in-event-horizon-1997/
+Evil Dead,Fede Alvarez,2013,20,4,No,6.5,https://wheresthejump.com/jump-scares-in-evil-dead-2013/
+Evil Dead II,Sam Raimi,1987,27,4,No,7.8,https://wheresthejump.com/jump-scares-in-evil-dead-ii-1987/
+Exorcist: The Beginning,Renny Harlin,2004,17,4,No,5.1,https://wheresthejump.com/jump-scares-in-exorcist-the-beginning-2004/
+Extinction,Miguel Ángel Vivas,2015,12,3,No,5.8,https://wheresthejump.com/jump-scares-in-extinction-2015/
+Extraterrestrial,Colin Minihan,2014,30,4.5,No,5,https://wheresthejump.com/jump-scares-in-extraterrestrial-2014/
+Fear Clinic,Robert Hall,2014,13,3,No,5.6,https://wheresthejump.com/jump-scares-in-fear-clinic-2014/
+Final Destination,James Wong,2000,4,2,Yes,6.7,https://wheresthejump.com/jump-scares-in-final-destination-2000/
+Final Destination 2,David R. Ellis,2003,3,1,Yes,6.2,https://wheresthejump.com/jump-scares-in-final-destination-ii-2003/
+Final Destination 3,James Wong,2006,5,1,Yes,5.8,https://wheresthejump.com/jump-scares-in-final-destination-iii-2006/
+Final Destination 5,Steven Quale,2011,5,1.5,No,5.9,https://wheresthejump.com/jump-scares-in-final-destination-v-2011/
+Flatliners,Joel Schumacher,1990,7,2,Yes,6.6,https://wheresthejump.com/jump-scares-in-flatliners-1990/
+Flatliners,Niels Arden Oplev,2017,20,4,No,5,https://wheresthejump.com/jump-scares-in-flatliners-2017/
+Frailty,Bill Paxton,2001,0,0,No,7.3,https://wheresthejump.com/jump-scares-in-frailty-2001/
+Freddy vs. Jason,Ronny Yu,2003,24,4,No,5.8,https://wheresthejump.com/jump-scares-in-freddy-vs-jason-2003/
+Friday the 13th,Sean S. Cunningham,1980,10,3,No,6.5,https://wheresthejump.com/jump-scares-in-friday-the-13th-1980/
+Friday the 13th,Marcus Nispel,2009,23,4,No,5.6,https://wheresthejump.com/jump-scares-in-friday-the-13th-2009/
+Friend Request,Simon Verhoeven,2016,21,4,Yes,5.4,https://wheresthejump.com/jump-scares-in-friend-request-2016/
+Fright Night,Craig Gillespie,2011,10,3,No,6.4,https://wheresthejump.com/jump-scares-in-fright-night-2011/
+Funny Games,Michael Haneke,1997,1,0.5,No,7.6,https://wheresthejump.com/jump-scares-in-funny-games-1997/
+Funny Games,Michael Haneke,2007,1,0.5,No,6.5,https://wheresthejump.com/jump-scares-in-funny-games-2007/
+Gerald's Game,Mike Flanagan,2017,3,0.5,Yes,7.1,https://wheresthejump.com/jump-scares-in-geralds-game-2017/
+Get Out,Jordan Peele,2017,10,2.5,No,7.8,https://wheresthejump.com/jump-scares-in-get-out-2017/
+Ghost Ship,Steve Beck,2002,12,3,Yes,5.5,https://wheresthejump.com/jump-scares-in-ghost-ship-2002/
+Ghost Stories,"Jeremy Dyson, Andy Nyman",2017,20,4,No,6.6,https://wheresthejump.com/jump-scares-in-ghost-stories-2017/
+Ghostland,Pascal Laugier,2018,21,4,No,6.3,https://wheresthejump.com/jump-scares-in-ghostland-2018/
+Goodnight Mommy,"Severin Fiala, Veronika Franz",2014,1,0.5,No,6.7,https://wheresthejump.com/jump-scares-in-goodnight-mommy-2014/
+Goosebumps,Rob Letterman,2015,10,2.5,No,6.4,https://wheresthejump.com/jump-scares-in-goosebumps-2015/
+Gothika,Mathieu Kassovitz,2003,16,3.5,Yes,5.8,https://wheresthejump.com/jump-scares-in-gothika-2003/
+Grave Encounters,"Colin Minihan, Stuart Ortiz",2011,12,4,No,6.1,https://wheresthejump.com/jump-scares-in-grave-encounters-2011/
+Green Room,Jeremy Saulnier,2015,1,0.5,Yes,7.2,https://wheresthejump.com/jump-scares-in-green-room-2015/
+Gremlins,Joe Dante,1984,17,3.5,No,7.2,https://wheresthejump.com/jump-scares-in-gremlins-1984/
+Halloween,John Carpenter,1978,13,2.5,No,7.9,https://wheresthejump.com/jump-scares-in-halloween-1978/
+Halloween,Rob Zombie,2007,9,3,No,6.1,https://wheresthejump.com/jump-scares-in-halloween-2007/
+Halloween,David Gordon Green,2018,14,3.5,No,7.5,https://wheresthejump.com/jump-scares-in-halloween-2018/
+Halloween H20: 20 Years Later,Steve Miner,1998,16,3.5,No,5.6,https://wheresthejump.com/jump-scares-in-halloween-h20-20-years-later-1998/
+Halloween II,Rick Rosenthal,1981,8,2,No,6.5,https://wheresthejump.com/jump-scares-in-halloween-ii-1981/
+Halloween II,Rob Zombie,2009,16,3,No,4.9,https://wheresthejump.com/jump-scares-in-halloween-ii-2009/
+Hannibal,Ridley Scott,2001,2,0.5,No,6.8,https://wheresthejump.com/jump-scares-in-hannibal-2001/
+Hannibal Rising,Peter Webber,2007,0,0,No,6.2,https://wheresthejump.com/jump-scares-in-hannibal-rising-2007/
+Happy Death Day 2U,Christopher Landon,2019,7,2,No,6.5,https://wheresthejump.com/jump-scares-in-happy-death-day-2u-2019/
+Happy Death Day,Christopher Landon,2017,8,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-happy-death-day-2017/
+Hellboy,Guillermo del Toro,2004,6,1.5,No,6.8,https://wheresthejump.com/jump-scares-in-hellboy-2004/
+Hellraiser,Clive Barker,1987,5,2,No,7.1,https://wheresthejump.com/jump-scares-in-hellraiser-1987/
+Here Alone,Rod Blackhurst,2016,2,0.5,Yes,5.6,https://wheresthejump.com/jump-scares-in-here-alone-2016/
+Hereditary,Ari Aster,2018,8,2,No,8.1,https://wheresthejump.com/jump-scares-in-hereditary-2018/
+Hidden,"Matt Duffer, Ross Duffer",2015,4,1.5,No,6.4,https://wheresthejump.com/jump-scares-in-hidden-2015/
+Hide and Seek,John Polson,2005,16,3.5,No,5.9,https://wheresthejump.com/jump-scares-in-hide-and-seek-2005/
+High Tension,Alexandre Aja,2003,8,2.5,No,6.9,https://wheresthejump.com/jump-scares-in-high-tension-2003/
+Holidays,Various Directors,2016,5,2,Yes,5.1,https://wheresthejump.com/jump-scares-in-holidays-2016/
+Hollow Man,Paul Verhoeven,2000,9,2.5,No,5.7,https://wheresthejump.com/jump-scares-in-hollow-man-2000/
+Honeymoon,Leigh Janiak,2014,3,0.5,No,5.6,https://wheresthejump.com/jump-scares-in-honeymoon-2014/
+Horns,Alexandre Aja,2013,3,0.5,No,6.5,https://wheresthejump.com/jump-scares-in-horns-2013/
+Hostel,Eli Roth,2005,2,0.5,No,5.9,https://wheresthejump.com/jump-scares-in-hostel-2005/
+Hounds of Love,Ben Young,2016,0,0,No,6.6,https://wheresthejump.com/jump-scares-in-hounds-of-love-2016/
+Hour of the Wolf,Ingmar Bergman,1968,1,0.5,No,7.7,https://wheresthejump.com/jump-scares-in-hour-of-the-wolf-1968/
+House,Steve Miner,1986,11,3,No,6.2,https://wheresthejump.com/jump-scares-in-house-1986/
+House of 1000 Corpses,Rob Zombie,2003,6,2.5,No,6,https://wheresthejump.com/jump-scares-in-house-of-1000-corpses-2003/
+House of Wax,Jaume Collet-Serra,2005,16,4,No,5.3,https://wheresthejump.com/jump-scares-in-house-of-wax-2005/
+House on Haunted Hill,William Malone,1999,14,3,No,5.6,https://wheresthejump.com/jump-scares-in-house-on-haunted-hill-1999/
+Hush,Mike Flanagan,2016,7,2.5,Yes,6.6,https://wheresthejump.com/jump-scares-in-hush-2016/
+I Am Legend,Francis Lawrence,2007,9,2.5,No,7.2,https://wheresthejump.com/jump-scares-in-i-am-legend-2007/
+I Am Not a Serial Killer,Billy O’Brien,2016,3,1,No,6.2,https://wheresthejump.com/jump-scares-in-i-am-not-a-serial-killer-2016/
+"I Am the Pretty Thing
+That Lives in the House",Oz Perkins,2016,4,0.5,Yes,4.7,https://wheresthejump.com/jump-scares-in-i-am-the-pretty-thing-that-lives-in-the-house-2016/
+"I Know What You Did
+Last Summer",Jim Gillespie,1997,13,3.5,Yes,5.6,https://wheresthejump.com/jump-scares-in-i-know-what-you-did-last-summer-1997/
+Identity,James Mangold,2003,11,2.5,No,7.3,https://wheresthejump.com/jump-scares-in-identity-2003/
+Idle Hands,Rodman Flender,1999,10,3,No,6.2,https://wheresthejump.com/jump-scares-in-idle-hands-1999/
+In The Mouth Of Madness,John Carpenter,1994,10,3,No,7.2,https://wheresthejump.com/jump-scares-in-in-the-mouth-of-madness-1994/
+Incarnate,Brad Peyton,2016,9,2.5,No,5.1,https://wheresthejump.com/jump-scares-in-incarnate-2016/
+Inland Empire,David Lynch,2006,8,2.5,No,7,https://wheresthejump.com/jump-scares-in-inland-empire-2006/
+Inside,"Alexandre Bustillo, Julien Maury",2007,4,1,No,6.9,https://wheresthejump.com/jump-scares-in-inside-2007/
+Insidious,James Wan,2010,24,5,No,6.8,https://wheresthejump.com/jump-scares-in-insidious-2010/
+Insidious: Chapter 2,James Wan,2013,22,4,No,6.6,https://wheresthejump.com/jump-scares-in-insidious-chapter-2-2013/
+Insidious: Chapter 3,Leigh Whannell,2015,15,4,No,6.1,https://wheresthejump.com/jump-scares-in-insidious-chapter-3-2015/
+Insidious: The Last Key,Adam Robitel,2018,15,4,No,5.8,https://wheresthejump.com/jump-scares-in-insidious-the-last-key-2018/
+Interview With the Vampire,Neil Jordan,1994,6,2,No,7.6,https://wheresthejump.com/jump-scares-in-interview-with-the-vampire-1994/
+Intruders,Adam Schindler,2015,4,1,No,5.7,https://wheresthejump.com/jump-scares-in-intruders-2015/
+Invasion of the Body Snatchers,Philip Kaufman,1978,4,1,No,7.4,https://wheresthejump.com/jump-scares-in-invasion-of-the-body-snatchers-1978/
+It,Andy Muschietti,2017,23,4,No,8.2,https://wheresthejump.com/jump-scares-in-it-2017/
+It Chapter Two,Andy Muschietti,2019,24,4,No,7,https://wheresthejump.com/jump-scares-in-it-chapter-two-2019/
+It Comes at Night,Trey Edward Shults,2017,5,1.5,No,6.8,https://wheresthejump.com/jump-scares-in-it-comes-at-night-2017/
+It Follows,David Robert Mitchell,2014,5,2,No,6.9,https://wheresthejump.com/jump-scares-in-it-follows-2014/
+Jacob's Ladder,Adrian Lyne,1990,4,1,No,7.5,https://wheresthejump.com/jump-scares-in-jacobs-ladder-1990/
+Jaws,Steven Spielberg,1975,4,2.5,No,8.1,https://wheresthejump.com/jump-scares-in-jaws-1975/
+Jeepers Creepers,Victor Salva,2001,11,3.5,No,6.1,https://wheresthejump.com/jump-scares-in-jeepers-creepers-2001/
+Jennifer's Body,Karyn Kusama,2009,6,2,No,5.1,https://wheresthejump.com/jump-scares-in-jennifers-body-2009/
+Jessabelle,Kevin Greutert,2014,9,2,No,5.4,https://wheresthejump.com/jump-scares-in-jessabelle-2014/
+Jigsaw,"Michael Spierig, Peter Spierig",2017,7,2,No,6.3,https://wheresthejump.com/jump-scares-in-jigsaw-2017/
+Joy Ride,John Dahl,2001,2,0.5,No,6.6,https://wheresthejump.com/jump-scares-in-joy-ride-2001/
+Julia's Eyes,Guillem Morales,2010,7,2,No,6.6,https://wheresthejump.com/jump-scares-in-julias-eyes-2010/
+Jurassic Park,Steven Spielberg,1993,9,2.5,No,8.1,https://wheresthejump.com/jump-scares-in-jurassic-park-1993/
+Jurassic World,Colin Trevorrow,2015,5,2,No,7,https://wheresthejump.com/jump-scares-in-jurassic-world-2015/
+Jurassic World: Fallen Kingdom,J.A. Bayona,2018,7,2,No,6.5,https://wheresthejump.com/jump-scares-in-jurassic-world-fallen-kingdom-2018/
+Kill List,Ben Wheatley,2011,1,0.5,No,6.3,https://wheresthejump.com/jump-scares-in-kill-list-2011/
+Knock Knock,Eli Roth,2015,2,0.5,No,4.9,https://wheresthejump.com/jump-scares-in-knock-knock-2015/
+Krampus,Michael Dougherty,2015,10,2,No,6.2,https://wheresthejump.com/jump-scares-in-krampus-2015/
+Lake Mungo,Joel Anderson,2008,1,0.5,No,6.1,https://wheresthejump.com/jump-scares-in-lake-mungo-2008/
+Lake Placid,Steve Miner,1999,11,2.5,No,5.6,https://wheresthejump.com/jump-scares-in-lake-placid-1999/
+Last Shift,Anthony DiBlasi,2014,17,4,No,5.7,https://wheresthejump.com/jump-scares-in-last-shift-2014/
+Leatherface,"Alexandre Bustillo, Julien Maury",2017,13,3,No,5.2,https://wheresthejump.com/jump-scares-in-leatherface-2017/
+Let Me In,Matt Reeves,2010,3,0.5,No,7.2,https://wheresthejump.com/jump-scares-in-let-me-in-2010/
+Let The Right One In,Tomas Alfredson,2008,2,0.5,No,8,https://wheresthejump.com/jump-scares-in-let-the-right-one-in-2008/
+Let Us Prey,Brian O’Malley,2014,7,3,No,5.6,https://wheresthejump.com/jump-scares-in-let-us-prey-2014/
+Life,Daniel Espinosa,2017,8,2,No,6.8,https://wheresthejump.com/jump-scares-in-life-2017/
+Lights Out,David F. Sandberg,2016,19,4.5,No,6.4,https://wheresthejump.com/jump-scares-in-lights-out-2016/
+Little Evil,Eli Craig,2017,7,1.5,Yes,5.8,https://wheresthejump.com/jump-scares-in-little-evil-2017/
+Ma,Tate Taylor,2019,3,1,No,5.7,https://wheresthejump.com/jump-scares-in-ma-2019/
+Maggie,Henry Hobson,2015,4,0.5,No,5.6,https://wheresthejump.com/jump-scares-in-maggie-2015/
+Malevolent,Olaf de Fleur Johannesson,2018,8,3,Yes,4.8,https://wheresthejump.com/jump-scares-in-malevolent-2018/
+Malice,Harold Becker,1993,3,1,No,6.4,https://wheresthejump.com/jump-scares-in-malice-1993/
+Mama,Andrés Muschietti,2013,13,3.5,No,6.2,https://wheresthejump.com/jump-scares-in-mama-2013/
+Mandy,Panos Cosmatos,2018,5,1.5,No,6.9,https://wheresthejump.com/jump-scares-in-mandy-2018/
+Marrowbone,Sergio G. Sánchez,2017,5,2.5,No,6.6,https://wheresthejump.com/jump-scares-in-marrowbone-2017/
+Martyrs,Pascal Laugier,2008,15,3,No,7.1,https://wheresthejump.com/jump-scares-in-martyrs-2008/
+May,Lucky McKee,2002,0,0,No,6.7,https://wheresthejump.com/jump-scares-in-may-2002/
+Mayhem,Joe Lynch,2017,2,0.5,No,6.5,https://wheresthejump.com/jump-scares-in-mayhem-2017/
+Megan Is Missing,Michael Goi,2011,1,0.5,No,4.9,https://wheresthejump.com/jump-scares-in-megan-is-missing-2011/
+Midsommar,Ari Aster,2019,3,1,No,7.4,https://wheresthejump.com/jump-scares-in-midsommar-2019/
+Mirrors,Alexandre Aja,2008,15,4,No,6.2,https://wheresthejump.com/jump-scares-in-mirrors-2008/
+Misery,Rob Reiner,1990,3,0.5,No,7.8,https://wheresthejump.com/jump-scares-in-misery-1990/
+Mom and Dad,Brian Taylor,2017,5,1.5,No,5.7,https://wheresthejump.com/jump-scares-in-mom-and-dad-2017/
+Morgan,Luke Scott,2016,3,0.5,No,5.9,https://wheresthejump.com/jump-scares-in-morgan-2016/
+Mother!,Darren Aronofsky,2017,7,2,No,7,https://wheresthejump.com/jump-scares-in-mother-2017/
+Mulholland Drive,David Lynch,2001,1,1,No,8,https://wheresthejump.com/jump-scares-in-mulholland-drive-2001/
+My Bloody Valentine,George Mihalka,1981,11,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-my-bloody-valentine-1981/
+My Friend Dahmer,Marc Meyers,2017,0,0,No,6.5,https://wheresthejump.com/jump-scares-in-my-friend-dahmer-2017/
+Nerve,"Henry Joost, Ariel Schulman",2016,1,0.5,No,6.7,https://wheresthejump.com/jump-scares-in-nerve-2016/
+Nocturnal Animals,Tom Ford,2016,1,1,No,7.5,https://wheresthejump.com/jump-scares-in-nocturnal-animals-2016/
+Noroi: The Curse,Kôji Shiraishi,2005,4,1,No,7,https://wheresthejump.com/jump-scares-in-noroi-the-curse-2005/
+Oculus,Mike Flanagan,2013,14,3.5,No,6.5,https://wheresthejump.com/jump-scares-in-oculus-2013/
+Odd Thomas,Stephen Sommers,2013,10,3,No,6.9,https://wheresthejump.com/jump-scares-in-odd-thomas-2013/
+One Hour Photo,Mark Romanek,2002,1,0.5,No,6.8,https://wheresthejump.com/jump-scares-in-one-hour-photo-2002/
+One Missed Call,Eric Valette,2008,15,3.5,No,3.9,https://wheresthejump.com/jump-scares-in-one-missed-call-2008/
+Only Lovers Left Alive,Jim Jarmusch,2013,0,0,No,7.3,https://wheresthejump.com/jump-scares-in-only-lovers-left-alive-2013/
+Orphan,Jaume Collet-Serra,2009,12,3,No,7,https://wheresthejump.com/jump-scares-in-orphan-2009/
+Ouija,Stiles White,2014,16,4,No,4.4,https://wheresthejump.com/jump-scares-in-ouija-2014/
+Ouija: Origin of Evil,Mike Flanagan,2016,18,4,No,6.1,https://wheresthejump.com/jump-scares-in-ouija-origin-of-evil-2016/
+Overlord,Julius Avery,2018,12,2.5,No,7.1,https://wheresthejump.com/jump-scares-in-overlord-2018/
+P2,Franck Khalfoun,2007,16,4,No,5.9,https://wheresthejump.com/jump-scares-in-p2-2007/
+Pandorum,Christian Alvart,2009,13,4,Yes,6.8,https://wheresthejump.com/jump-scares-in-pandorum-2009/
+Pan's Labyrinth,Guillermo del Toro,2006,6,1.5,No,8.2,https://wheresthejump.com/jump-scares-in-pans-labyrinth-2006/
+Paranormal Activity,Oren Peli,2007,10,3.5,No,6.3,https://wheresthejump.com/jump-scares-in-paranormal-activity-2007/
+Paranormal Activity 2,Tod Williams,2010,14,3.5,No,5.7,https://wheresthejump.com/jump-scares-in-paranormal-activity-ii-2010/
+Paranormal Activity 3,"Henry Joost, Ariel Schulman",2011,20,4,No,5.9,https://wheresthejump.com/jump-scares-in-paranormal-activity-iii-2011/
+Paranormal Activity 4,"Henry Joost, Ariel Schulman",2012,21,4,No,4.6,https://wheresthejump.com/jump-scares-in-paranormal-activity-iv/
+Paranormal Activity: The Ghost Dimension,Gregory Plotkin,2015,29,4,No,4.6,https://wheresthejump.com/jump-scares-in-paranormal-activity-v-the-ghost-dimension/
+Patient Zero,Stefan Ruzowitzky,2018,6,1.5,No,4.3,https://wheresthejump.com/jump-scares-in-patient-zero-2018/
+Pay The Ghost,Uli Edel,2015,13,3,No,5.2,https://wheresthejump.com/jump-scares-in-pay-the-ghost-2015/
+Personal Shopper,Olivier Assayas,2016,4,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-personal-shopper-2016/
+Pet,Carles Torrens,2016,2,1,No,5.7,https://wheresthejump.com/jump-scares-in-pet-2016/
+Pet Sematary,Mary Lambert,1989,13,3.5,No,6.6,https://wheresthejump.com/jump-scares-in-pet-sematary-1989/
+Pet Sematary,"Kevin Kölsch, Dennis Widmyer",2019,14,3.5,No,6.4,https://wheresthejump.com/jump-scares-in-pet-sematary-2019/
+Planet Terror,Robert Rodriguez,2007,14,2.5,No,7.2,https://wheresthejump.com/jump-scares-in-planet-terror-2007/
+Poltergeist,Tobe Hooper,1982,9,1,Yes,7.4,https://wheresthejump.com/jump-scares-in-poltergeist-1982/
+Poltergeist,Gil Kenan,2015,21,4,No,5,https://wheresthejump.com/jump-scares-in-poltergeist-2015/
+Pontypool,Bruce McDonald,2008,1,0.5,No,6.7,https://wheresthejump.com/jump-scares-in-pontypool-2008/
+Predator,John McTiernan,1987,7,2,No,7.8,https://wheresthejump.com/jump-scares-in-predator-1987/
+Prevenge,Alice Lowe,2016,0,0.5,No,6.1,https://wheresthejump.com/jump-scares-in-prevenge-2016/
+Pride and Prejudice and Zombies,Burr Steers,2016,7,2,No,5.8,https://wheresthejump.com/jump-scares-in-pride-and-prejudice-and-zombies-2016/
+Prince of Darkness,John Carpenter,1987,7,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-prince-of-darkness-1987/
+Prometheus,Ridley Scott,2012,7,1.5,No,7,https://wheresthejump.com/jump-scares-in-prometheus-2012/
+Psycho,Alfred Hitchcock,1960,2,0.5,No,8.6,https://wheresthejump.com/jump-scares-in-psycho-1960/
+Quarantine,John Erick Dowdle,2008,14,3.5,No,6,https://wheresthejump.com/jump-scares-in-quarantine-2008/
+Ravenous,Antonia Bird,1999,4,1,No,7.1,https://wheresthejump.com/jump-scares-in-ravenous-1999/
+Raw,Julia Ducournau,2016,3,1,Yes,7.1,https://wheresthejump.com/jump-scares-in-raw-2016/
+Re-Animator,Stuart Gordon,1985,4,1,No,7.3,https://wheresthejump.com/jump-scares-in-re-animator-1985/
+[Rec],"Jaume Balagueró, Paco Plaza",2007,11,3.5,No,7.5,https://wheresthejump.com/jump-scares-in-rec-2007/
+Red Dragon,Brett Ratner,2002,6,2,No,7.2,https://wheresthejump.com/jump-scares-in-red-dragon-2002/
+Regression,Alejandro Amenábar,2015,3,1,No,5.7,https://wheresthejump.com/jump-scares-in-regression-2015/
+Repulsion,Roman Polanski,1965,7,2.5,No,7.8,https://wheresthejump.com/jump-scares-in-repulsion-1965/
+Resident Evil,Paul W.S. Anderson,2002,7,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-resident-evil-2002/
+Resident Evil: The Final Chapter,Paul W.S. Anderson,2016,29,4.5,No,5.6,https://wheresthejump.com/jump-scares-in-resident-evil-the-final-chapter-2016/
+Resolution,"Justin Benson, Aaron Moorhead",2012,2,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-resolution-2012/
+Restoration,Zack Ward,2016,10,3,No,4,https://wheresthejump.com/jump-scares-in-restoration-2016/
+Ring (Ringu),Hideo Nakata,1998,5,2,No,7.3,https://wheresthejump.com/jump-scares-in-ring-1998/
+Rings,F. Javier Gutiérrez,2017,19,3.5,No,4.5,https://wheresthejump.com/jump-scares-in-rings-2017/
+Rosemary's Baby,Roman Polanski,1968,0,0,No,8,https://wheresthejump.com/jump-scares-in-rosemarys-baby-1968/
+Saw,James Wan,2004,5,2,No,7.7,https://wheresthejump.com/jump-scares-in-saw-2004/
+Saw II,Darren Lynn Bousman,2005,5,1,No,6.6,https://wheresthejump.com/jump-scares-in-saw-ii-2005/
+Saw III,Darren Lynn Bousman,2006,5,1.5,No,6.2,https://wheresthejump.com/jump-scares-in-saw-iii-2006/
+Saw IV,Darren Lynn Bousman,2007,6,1.5,No,5.9,https://wheresthejump.com/jump-scares-in-saw-iv-2007/
+Saw V,David Hackl,2008,5,1,No,5.8,https://wheresthejump.com/jump-scares-in-saw-v-2008/
+Saw VI,Kevin Greutert,2009,2,0.5,No,6,https://wheresthejump.com/jump-scares-in-saw-vi-2009/
+Scary Movie,Keenen Ivory Wayans,2000,8,1.5,No,6.2,https://wheresthejump.com/jump-scares-in-scary-movie-2000/
+Scary Movie 2,Keenen Ivory Wayans,2001,8,1.5,Yes,5.3,https://wheresthejump.com/jump-scares-in-scary-movie-ii-2001/
+Scream,Wes Craven,1996,19,3.5,No,7.2,https://wheresthejump.com/jump-scares-in-scream-1996/
+Scream 2,Wes Craven,1997,19,4,No,6.1,https://wheresthejump.com/jump-scares-in-scream-ii-1997/
+Scream 3,Wes Craven,2000,23,4,No,5.5,https://wheresthejump.com/jump-scares-in-scream-iii-2000/
+Scream 4,Wes Craven,2011,18,3.5,Yes,6.2,https://wheresthejump.com/jump-scares-in-scream-iv-2011/
+Searching,Aneesh Chaganty,2018,0,0,No,7.7,https://wheresthejump.com/jump-scares-in-searching-2018/
+Secret Window,David Koepp,2004,10,2,No,6.6,https://wheresthejump.com/jump-scares-in-secret-window-2004/
+Session 9,Brad Anderson,2001,0,0,No,6.5,https://wheresthejump.com/jump-scares-in-session-9-2001/
+Seven,David Fincher,1995,1,0.5,No,8.6,https://wheresthejump.com/jump-scares-in-seven-1995/
+Shaun of the Dead,Edgar Wright,2004,13,2.5,No,8,https://wheresthejump.com/jump-scares-in-shaun-of-the-dead-2004/
+Shutter,"Banjong Pisanthanakun, Parkpoom Wongpoom",2004,11,4,Yes,7.1,https://wheresthejump.com/jump-scares-in-shutter-2004/
+Shutter Island,Martin Scorsese,2010,9,2,No,8.1,https://wheresthejump.com/jump-scares-in-shutter-island-2010/
+Signs,M. Night Shyamalan,2002,8,2,No,6.7,https://wheresthejump.com/jump-scares-in-signs-2002/
+Silent Hill,Christophe Gans,2006,7,1.5,No,6.6,https://wheresthejump.com/jump-scares-in-silent-hill-2006/
+Silent Hill: Revelation,Michael J. Bassett,2012,22,4,No,5,https://wheresthejump.com/jump-scares-in-silent-hill-revelation-2012/
+Silver Bullet,Dan Attias,1985,15,3,No,6.4,https://wheresthejump.com/jump-scares-in-silver-bullet-1985/
+Sinister,Scott Derrickson,2012,17,5,No,6.8,https://wheresthejump.com/jump-scares-in-sinister-2012/
+Sinister 2,Ciarán Foy,2015,19,4,No,5.2,https://wheresthejump.com/jump-scares-in-sinister-ii-2015/
+Sleepaway Camp,Robert Hiltzik,1983,6,1.5,No,6.3,https://wheresthejump.com/jump-scares-in-sleepaway-camp-1983/
+Sleepy Hollow,Tim Burton,1999,1,0.5,No,7.4,https://wheresthejump.com/jump-scares-in-sleepy-hollow-1999/
+Slender Man,Sylvain White,2018,15,3.5,No,3.1,https://wheresthejump.com/jump-scares-in-slender-man-2018/
+Slither,James Gunn,2006,10,3,No,6.5,https://wheresthejump.com/jump-scares-in-slither-2006/
+Slumber,Jonathan Hopkins,2017,12,3,No,4.9,https://wheresthejump.com/jump-scares-in-slumber-2017/
+Species,Roger Donaldson,1995,7,3,No,5.8,https://wheresthejump.com/jump-scares-in-species-1995/
+Sphere,Barry Levinson,1998,4,1,No,6,https://wheresthejump.com/jump-scares-in-sphere-1998/
+Splinter,Toby Wilkins,2008,10,3,No,6.1,https://wheresthejump.com/jump-scares-in-splinter-2008/
+Split,M. Night Shyamalan,2016,3,0.5,No,7.3,https://wheresthejump.com/jump-scares-in-split-2016/
+Spring,"Justin Benson, Aaron Moorhead",2014,1,0.5,No,6.6,https://wheresthejump.com/jump-scares-in-spring-2014/
+Stake Land,Jim Mickle,2010,1,0.5,No,6.5,https://wheresthejump.com/jump-scares-in-stake-land-2010/
+Starry Eyes,"Kevin Kolsch, Dennis Widmyer",2014,9,2,No,6,https://wheresthejump.com/jump-scares-in-starry-eyes-2014/
+Stephanie,Akiva Goldsman,2017,18,3,Yes,5.8,https://wheresthejump.com/jump-scares-in-stephanie-2017/
+Stir of Echoes,David Koepp,1999,9,3,No,7,https://wheresthejump.com/jump-scares-in-stir-of-echoes-1999/
+Summer of 84,"Anouk Whissell, François Simard, Yoann-Karl Whissell",2018,19,4,No,6.7,https://wheresthejump.com/jump-scares-in-summer-of-84-2018/
+Sunshine,Danny Boyle,2007,6,1.5,No,7.3,https://wheresthejump.com/jump-scares-in-sunshine-2007/
+Super 8,J.J. Abrams,2011,15,3.5,No,7.1,https://wheresthejump.com/jump-scares-in-super-8-2011/
+Suspiria,Dario Argento,1977,6,1.5,No,7.5,https://wheresthejump.com/jump-scares-in-suspiria-1977/
+Suspiria,Luca Guadagnino,2018,2,0.5,No,7.1,https://wheresthejump.com/jump-scares-in-suspiria-2018/
+Tales of Halloween,Various Directors,2015,14,3,Yes,5.4,https://wheresthejump.com/jump-scares-in-tales-of-halloween-2015/
+Terrifier,Damien Leone,2017,18,3.5,Yes,5.7,https://wheresthejump.com/jump-scares-in-terrifier-2017/
+Texas Chainsaw 3D,John Luessenhop,2013,14,3,No,4.8,https://wheresthejump.com/jump-scares-in-texas-chainsaw-3d-2013/
+The 9th Life of Louis Drax,Alexandre Aja,2016,4,1,No,6.3,https://wheresthejump.com/jump-scares-in-the-9th-life-of-louis-drax-2016/
+The Abandoned,Eytan Rockaway,2015,21,3.5,No,5,https://wheresthejump.com/jump-scares-in-the-abandoned-2015/
+The ABCs of Death,Various Directors,2012,0,0,No,4.7,https://wheresthejump.com/jump-scares-in-the-abcs-of-death-2012/
+The Abyss,James Cameron,1989,2,0.5,No,7.6,https://wheresthejump.com/jump-scares-in-the-abyss-1989/
+The Amityville Horror,Stuart Rosenberg,1979,8,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-amityville-horror-1979/
+The Amityville Horror,Andrew Douglas,2005,16,4,No,6,https://wheresthejump.com/jump-scares-in-the-amityville-horror-2005/
+The Atticus Institute,Chris Sparling,2015,13,3.5,No,5.4,https://wheresthejump.com/jump-scares-in-the-atticus-institute-2015/
+The Autopsy of Jane Doe,André Øvredal,2016,12,3,Yes,6.8,https://wheresthejump.com/jump-scares-in-the-autopsy-of-jane-doe-2016/
+The Babadook,Jennifer Kent,2014,11,3,No,6.9,https://wheresthejump.com/jump-scares-in-the-babadook-2014/
+The Babysitter,McG,2017,8,2.5,Yes,6.6,https://wheresthejump.com/jump-scares-in-the-babysitter-2017/
+The Bay,Barry Levinson,2012,8,2.5,No,5.6,https://wheresthejump.com/jump-scares-in-the-bay-2012/
+The Belko Experiment,Greg McLean,2016,8,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-belko-experiment-2016/
+The Blackcoat's Daughter,Osgood Perkins,2015,3,0.5,No,5.3,https://wheresthejump.com/jump-scares-in-the-blackcoats-daughter-2015/
+The Blair Witch Project,"Daniel Myrick, Eduardo Sánchez",1999,0,0,No,6.4,https://wheresthejump.com/jump-scares-in-the-blair-witch-project-1999/
+The Borderlands (Final Prayer),Elliot Goldner,2013,12,3,No,5.7,https://wheresthejump.com/jump-scares-in-the-borderlands-final-prayer-2013/
+The Boy,Craig Macneill,2015,1,0.5,No,5.4,https://wheresthejump.com/jump-scares-in-the-boy-2015/
+The Boy,William Brent Bell,2016,11,3,Yes,6,https://wheresthejump.com/jump-scares-in-the-boy-2016/
+The Burning,Tony Maylam,1981,21,4,No,6.5,https://wheresthejump.com/jump-scares-in-the-burning-1981/
+The Butterfly Effect,"Eric Bress, J. Mackye Gruber",2004,4,1,No,7.7,https://wheresthejump.com/jump-scares-in-the-butterfly-effect-2004/
+The Bye Bye Man,Stacy Title,2017,13,3,No,4.3,https://wheresthejump.com/jump-scares-in-the-bye-bye-man-2017/
+The Cabin In The Woods,Drew Goddard,2012,13,3,No,7,https://wheresthejump.com/jump-scares-in-the-cabin-in-the-woods-2012/
+The Call,Brad Anderson,2013,8,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-the-call-2013/
+The Canal,Ivan Kavanagh,2014,4,2,No,5.9,https://wheresthejump.com/jump-scares-in-the-canal-2014/
+The Changeling,Peter Medak,1980,7,2,No,7.3,https://wheresthejump.com/jump-scares-in-the-changeling-1980/
+The Cloverfield Paradox,Julius Onah,2018,8,3,Yes,6.2,https://wheresthejump.com/jump-scares-in-the-cloverfield-paradox-2018/
+The Collector,Marcus Dunstan,2009,2,1,No,6.4,https://wheresthejump.com/jump-scares-in-the-collector-2009/
+The Conjuring,James Wan,2013,12,4,Yes,7.5,https://wheresthejump.com/jump-scares-in-the-conjuring-2013/
+The Conjuring 2,James Wan,2016,22,5,No,7.4,https://wheresthejump.com/jump-scares-in-the-conjuring-ii-2016/
+The Conspiracy,Christopher MacBride,2012,1,0.5,No,6.4,https://wheresthejump.com/jump-scares-in-the-conspiracy-2012/
+The Conversation,Francis Ford Coppola,1974,1,0.5,No,7.9,https://wheresthejump.com/jump-scares-in-the-conversation-1974/
+The Craft,Andrew Fleming,1996,4,1,No,6.3,https://wheresthejump.com/jump-scares-in-the-craft-1996/
+The Crazies,Breck Eisner,2010,18,4,No,6.6,https://wheresthejump.com/jump-scares-in-the-crazies-2010/
+The Crucifixion,Xavier Gens,2017,19,4.5,No,5,https://wheresthejump.com/jump-scares-in-the-crucifixion-2017/
+The Cured,David Freyne,2017,16,3,No,5.6,https://wheresthejump.com/jump-scares-in-the-cured-2017/
+The Curse of La Llorona,Michael Chaves,2019,20,4,No,5.4,https://wheresthejump.com/jump-scares-in-the-curse-of-la-llorona-2019/
+The Dead Don’t Die,Jim Jarmusch,2019,0,0,No,5.6,https://wheresthejump.com/jump-scares-in-the-dead-dont-die-2019/
+The Den,Zachary Donohue,2013,14,4,No,6.1,https://wheresthejump.com/jump-scares-in-the-den-2013/
+The Descent,Neil Marshall,2005,16,4,No,7.2,https://wheresthejump.com/jump-scares-in-the-descent-2005/
+The Devil Inside,William Brent Bell,2012,8,2.5,No,4.1,https://wheresthejump.com/jump-scares-in-the-devil-inside-2012/
+The Devil's Backbone,Guillermo del Toro,2001,4,1.5,No,7.5,https://wheresthejump.com/jump-scares-in-the-devils-backbone-2001/
+The Devil's Candy,Sean Byrne,2015,8,2,Yes,6.7,https://wheresthejump.com/jump-scares-in-the-devils-candy-2015/
+The Devil's Rejects,Rob Zombie,2005,0,0,No,6.9,https://wheresthejump.com/jump-scares-in-the-devils-rejects-2005/
+The Disappointments Room,D.J. Caruso,2016,9,2.5,Yes,3.9,https://wheresthejump.com/jump-scares-in-the-disappointments-room-2016/
+The Endless,"Justin Benson, Aaron Moorhead",2017,7,2.5,No,6.6,https://wheresthejump.com/jump-scares-in-the-endless-2017/
+The Evil Dead,Sam Raimi,1981,22,4,No,7.6,https://wheresthejump.com/jump-scares-in-the-evil-dead-1981/
+The Exorcism of Emily Rose,Scott Derrickson,2005,8,2.5,No,6.7,https://wheresthejump.com/jump-scares-in-the-exorcism-of-emily-rose-2005/
+The Exorcist,William Friedkin,1973,10,1.5,No,8,https://wheresthejump.com/jump-scares-in-the-exorcist-1973/
+The Exorcist III,William Peter Blatty,1990,11,2.5,No,6.3,https://wheresthejump.com/jump-scares-in-the-exorcist-iii/
+The Eye,"Danny Pang, Oxide Chun Pang",2002,5,2,No,6.7,https://wheresthejump.com/jump-scares-in-the-eye-2002/
+The Eyes of My Mother,Nicolas Pesce,2016,0,0,Yes,6.3,https://wheresthejump.com/jump-scares-in-the-eyes-of-my-mother-2016/
+The Faculty,Robert Rodriguez,1998,11,3,No,6.4,https://wheresthejump.com/jump-scares-in-the-faculty-1998/
+The Final Destination,David R. Ellis,2009,4,1,No,5.2,https://wheresthejump.com/jump-scares-in-the-final-destination-2009/
+The Final Girls,Todd Strauss-Schulson,2015,8,1.5,No,6.7,https://wheresthejump.com/jump-scares-in-the-final-girls-2015/
+The First Purge,Gerard McMurray,2018,8,2.5,No,5.2,https://wheresthejump.com/jump-scares-in-the-first-purge-2018/
+The Fly,David Cronenberg,1986,2,0.5,No,7.5,https://wheresthejump.com/jump-scares-in-the-fly-1986/
+The Fog,John Carpenter,1980,16,3.5,No,6.8,https://wheresthejump.com/jump-scares-in-the-fog-1980/
+The Forest,Jason Zada,2016,13,3.5,No,4.8,https://wheresthejump.com/jump-scares-in-the-forest-2016/
+The Forgotten,Joseph Ruben,2004,7,3,No,5.8,https://wheresthejump.com/jump-scares-in-the-forgotten-2004/
+The Gallows,"Travis Cluff, Chris Lofing",2015,21,4,No,4.2,https://wheresthejump.com/jump-scares-in-the-gallows-2015/
+The Gift,Joel Edgerton,2015,5,1.5,No,7.1,https://wheresthejump.com/jump-scares-in-the-gift-2015/
+The Girl with All the Gifts,Colm McCarthy,2016,3,1,No,6.8,https://wheresthejump.com/jump-scares-in-the-girl-with-all-the-gifts-2016/
+The Good Neighbor,Kasra Farahani,2016,7,2,Yes,6.3,https://wheresthejump.com/jump-scares-in-the-good-neighbor-2016/
+The Green Inferno,Eli Roth,2013,4,1,No,5.7,https://wheresthejump.com/jump-scares-in-the-green-inferno-2013/
+The Grudge,Takashi Shimizu,2004,23,4,No,5.9,https://wheresthejump.com/jump-scares-in-the-grudge-2004/
+The Guest,Adam Wingard,2014,5,1.5,No,6.7,https://wheresthejump.com/jump-scares-in-the-guest-2014/
+The Hallow,Corin Hardy,2015,17,3.5,No,5.7,https://wheresthejump.com/jump-scares-in-the-hallow-2015/
+The Happening,M. Night Shyamalan,2008,1,0.5,No,5,https://wheresthejump.com/jump-scares-in-the-happening-2008/
+The Harvest,John McNaughton,2013,0,0,No,5.9,https://wheresthejump.com/jump-scares-in-the-harvest-2013/
+The Haunting,Robert Wise,1963,3,1,No,7.6,https://wheresthejump.com/jump-scares-in-the-haunting-1963/
+The Haunting in Connecticut,Peter Cornwell,2009,26,4.5,No,5.9,https://wheresthejump.com/jump-scares-in-the-haunting-in-connecticut-2009/
+The Haunting in Connecticut 2: Ghosts of Georgia,Tom Elkins,2013,32,5,No,5.3,https://wheresthejump.com/jump-scares-in-the-haunting-in-connecticut-ii-ghosts-of-georgia-2013/
+The Hills Have Eyes,Alexandre Aja,2006,9,2.5,No,6.4,https://wheresthejump.com/jump-scares-in-the-hills-have-eyes-2006/
+The Hole,Nick Hamm,2001,3,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-hole-2001/
+The House of the Devil,Ti West,2009,4,1,No,6.4,https://wheresthejump.com/jump-scares-in-the-house-of-the-devil-2009/
+The House on Pine Street,"Aaron Keeling, Austin Keeling",2015,5,1,No,5.3,https://wheresthejump.com/jump-scares-in-the-house-on-pine-street-2015/
+The House with a Clock in Its Walls,Eli Roth,2018,8,1.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-house-with-a-clock-in-its-walls-2018/
+The Howling,Joe Dante,1981,10,2.5,No,6.6,https://wheresthejump.com/jump-scares-in-the-howling-1981/
+The Human Centipede (First Sequence),Tom Six,2009,4,1.5,No,4.4,https://wheresthejump.com/jump-scares-in-the-human-centipede-first-sequence-2009/
+The Innkeepers,Ti West,2011,9,2,No,5.5,https://wheresthejump.com/jump-scares-in-the-innkeepers-2011/
+The Innocents,Jack Clayton,1961,4,0.5,No,7.9,https://wheresthejump.com/jump-scares-in-the-innocents-1961/
+The Invitation,Karyn Kusama,2015,5,1,Yes,6.6,https://wheresthejump.com/jump-scares-in-the-invitation-2015/
+The Jacket,John Maybury,2005,6,1.5,No,7.1,https://wheresthejump.com/jump-scares-in-the-jacket-2005/
+The Killing of a Sacred Deer,Yorgos Lanthimos,2017,3,0.5,No,7.6,https://wheresthejump.com/jump-scares-in-the-killing-of-a-sacred-deer-2017/
+The Last Exorcism,Daniel Stamm,2010,7,2,No,5.6,https://wheresthejump.com/jump-scares-in-the-last-exorcism-2010/
+The Last House on the Left,Dennis Iliadis,2009,4,0.5,No,6.6,https://wheresthejump.com/jump-scares-in-the-last-house-on-the-left-2009/
+The Lazarus Effect,David Gelb,2015,18,4.5,No,5.2,https://wheresthejump.com/jump-scares-in-the-lazarus-effect-2015/
+The Limehouse Golem,Juan Carlos Medina,2016,0,0,No,6.4,https://wheresthejump.com/jump-scares-in-the-limehouse-golem-2016/
+The Little Stranger,Lenny Abrahamson,2018,0,0,No,5.6,https://wheresthejump.com/jump-scares-in-the-little-stranger-2018/
+The Love Witch,Anna Biller,2016,0,0,No,6.2,https://wheresthejump.com/jump-scares-in-the-love-witch-2016/
+The Meg,Jon Turteltaub,2018,18,3.5,No,6.1,https://wheresthejump.com/jump-scares-in-the-meg-2018/
+The Messengers,"Danny Pang, Oxide Chun Pang",2007,27,4.5,No,5.4,https://wheresthejump.com/jump-scares-in-the-messengers-2007/
+The Midnight Meat Train,Ryûhei Kitamura,2008,1,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-midnight-meat-train-2008/
+The Mist,Frank Darabont,2007,5,1,No,7.2,https://wheresthejump.com/jump-scares-in-the-mist-2007/
+The Monster,Bryan Bertino,2016,11,3,Yes,5.4,https://wheresthejump.com/jump-scares-in-the-monster-2016/
+The Mothman Prophecies,Mark Pellington,2002,4,1,No,6.5,https://wheresthejump.com/jump-scares-in-the-mothman-prophecies-2002/
+The Mummy,Alex Kurtzman,2017,16,3.5,No,5.5,https://wheresthejump.com/jump-scares-in-the-mummy-2017/
+The Neighbor,Marcus Dunstan,2016,3,1,No,5.8,https://wheresthejump.com/jump-scares-in-the-neighbor-2016/
+The Neon Demon,Nicolas Winding Refn,2016,2,0.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-neon-demon-2016/
+The New Daughter,Luiso Berdejo,2009,11,2.5,No,5.3,https://wheresthejump.com/jump-scares-in-the-new-daughter-2009/
+The Ninth Gate,Roman Polanski,1999,0,0,No,6.7,https://wheresthejump.com/jump-scares-in-the-ninth-gate-1999/
+The Number 23,Joel Schumacher,2007,3,0.5,No,6.4,https://wheresthejump.com/jump-scares-in-the-number-23-2007/
+The Nun,Corin Hardy,2018,21,4.5,No,6,https://wheresthejump.com/jump-scares-in-the-nun-2018/
+The Omen,Richard Donner,1976,1,0.5,No,7.6,https://wheresthejump.com/jump-scares-in-the-omen-1976/
+The Ones Below,David Farr,2015,0,0,Yes,6.1,https://wheresthejump.com/jump-scares-in-the-ones-below-2015/
+The Open House,"Matt Angel, Suzanne Coote",2018,14,3,Yes,3.3,https://wheresthejump.com/jump-scares-in-the-open-house-2018/
+The Orphanage,J.A. Bayona,2007,6,1.5,No,7.5,https://wheresthejump.com/jump-scares-in-the-orphanage-2007/
+The Other Side of the Door,Johannes Roberts,2016,16,3.5,No,5.3,https://wheresthejump.com/jump-scares-in-the-other-side-of-the-door-2016/
+The Others,Alejandro Amenábar,2001,4,2,No,7.6,https://wheresthejump.com/jump-scares-in-the-others-2001
+The Pact,Nicholas McCarthy,2012,12,3,No,5.8,https://wheresthejump.com/jump-scares-in-the-pact-2012/
+The People Under the Stairs,Wes Craven,1991,13,3,No,6.3,https://wheresthejump.com/jump-scares-in-the-people-under-the-stairs-1991/
+The Perfection,Richard Shepard,2019,1,0.5,Yes,6.1,https://wheresthejump.com/jump-scares-in-the-perfection-2019/
+The Possession,Ole Bornedal,2012,10,3,No,5.9,https://wheresthejump.com/jump-scares-in-the-possession-2012/
+The Possession of Michael King,David Jung,2014,20,4,No,5.7,https://wheresthejump.com/jump-scares-in-the-possession-of-michael-king-2014/
+The Predator,Shane Black,2018,6,1.5,No,5.6,https://wheresthejump.com/jump-scares-in-the-predator-2018/
+The Purge,James DeMonaco,2013,12,3,No,5.6,https://wheresthejump.com/jump-scares-in-the-purge-2013/
+The Purge: Anarchy,James DeMonaco,2014,13,3,No,6.5,https://wheresthejump.com/jump-scares-in-the-purge-anarchy-2014/
+The Purge: Election Year,James DeMonaco,2016,9,2.5,No,6,https://wheresthejump.com/jump-scares-in-the-purge-election-year-2016/
+The Quiet Ones,John Pogue,2014,23,4,No,5.1,https://wheresthejump.com/jump-scares-in-the-quiet-ones-2014/
+The Return of the Living Dead,Dan O'Bannon,1985,1,0.5,No,7.3,https://wheresthejump.com/jump-scares-in-the-return-of-the-living-dead-1985/
+The Ring,Gore Verbinski,2002,9,2.5,No,7.1,https://wheresthejump.com/jump-scares-in-the-ring-2002/
+The Ring Two,Hideo Nakata,2005,11,3,No,5.4,https://wheresthejump.com/jump-scares-in-the-ring-two-2005/
+The Rite,Mikael Håfström,2011,7,2,Yes,6,https://wheresthejump.com/jump-scares-in-the-rite-2011/
+The Ritual,David Bruckner,2017,15,3,Yes,6.3,https://wheresthejump.com/jump-scares-in-the-ritual-2017/
+The Sacrament,Ti West,2013,2,0.5,No,6.1,https://wheresthejump.com/jump-scares-in-the-sacrament-2013/
+The Shallows,Jaume Collet-Serra,2016,9,2.5,No,6.3,https://wheresthejump.com/jump-scares-in-the-shallows-2016/
+The Shape of Water,Guillermo del Toro,2017,2,0.5,No,8.1,https://wheresthejump.com/jump-scares-in-the-shape-of-water-2017/
+The Shining,Stanley Kubrick,1980,3,0.5,Yes,8.4,https://wheresthejump.com/jump-scares-in-the-shining-1980/
+The Silence of the Lambs,Jonathan Demme,1991,0,0,No,8.6,https://wheresthejump.com/jump-scares-in-the-silence-of-the-lambs-1991/
+The Sixth Sense,M. Night Shyamalan,1999,8,1.5,Yes,8.2,https://wheresthejump.com/jump-scares-in-the-sixth-sense-1999/
+The Skeleton Key,Iain Softley,2005,11,3,No,6.5,https://wheresthejump.com/jump-scares-in-the-skeleton-key-2005/
+The Snowman,Tomas Alfredson,2017,9,2,No,5.1,https://wheresthejump.com/jump-scares-in-the-snowman-2017/
+The Strangers,Bryan Bertino,2008,16,4.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-strangers-2008/
+The Strangers: Prey at Night,Johannes Roberts,2018,14,3.5,No,5.5,https://wheresthejump.com/jump-scares-in-the-strangers-prey-at-night-2018/
+The Taking of Deborah Logan,Adam Robitel,2014,19,3.5,No,6,https://wheresthejump.com/jump-scares-in-the-taking-of-deborah-logan-2014/
+The Texas Chain Saw Massacre,Tobe Hooper,1974,2,1,No,7.5,https://wheresthejump.com/jump-scares-in-the-texas-chain-saw-massacre-1974/
+The Texas Chainsaw Massacre,Marcus Nispel,2003,16,3,No,6.2,https://wheresthejump.com/jump-scares-in-the-texas-chainsaw-massacre-2003/
+The Texas Chainsaw Massacre: The Beginning,Jonathan Liebesman,2006,17,3.5,Yes,5.9,https://wheresthejump.com/jump-scares-in-the-texas-chainsaw-massacre-the-beginning-2006/
+The Thing,John Carpenter,1982,7,2,No,8.2,https://wheresthejump.com/jump-scares-in-the-thing-1982/
+The Thing,Matthijs van Heijningen Jr.,2011,7,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-thing-2011/
+The Town That Dreaded Sundown,Alfonso Gomez-Rejon,2014,8,3,No,5.6,https://wheresthejump.com/jump-scares-in-the-town-that-dreaded-sundown-2014/
+The Transfiguration,Michael O’Shea,2016,2,1,No,5.9,https://wheresthejump.com/jump-scares-in-the-transfiguration-2016/
+The Tunnel,Carlo Ledesma,2011,6,2.5,No,5.9,https://wheresthejump.com/jump-scares-in-the-tunnel-2011/
+The Unborn,David S. Goyer,2009,14,3.5,Yes,4.8,https://wheresthejump.com/jump-scares-in-the-unborn-2009/
+The Uninvited,Charles & Thomas Guard,2009,11,3,Yes,6.4,https://wheresthejump.com/jump-scares-in-the-uninvited-2009/
+The Veil,Phil Joanou,2016,12,3,Yes,4.7,https://wheresthejump.com/jump-scares-in-the-veil-2016/
+The Village,M. Night Shyamalan,2004,4,1,No,6.5,https://wheresthejump.com/jump-scares-in-the-village-2004/
+The Visit,M. Night Shyamalan,2015,8,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-the-visit-2015/
+The Voices,Marjane Satrapi,2014,3,0.5,No,6.3,https://wheresthejump.com/jump-scares-in-the-voices-2014/
+The Void,"Jeremy Gillespie, Steven Kostanski",2016,8,2,Yes,5.8,https://wheresthejump.com/jump-scares-in-the-void-2016/
+The Wailing,Na Hong-jin,2016,4,1,Yes,7.5,https://wheresthejump.com/jump-scares-in-the-wailing-2016/
+The Ward,John Carpenter,2010,15,4,No,5.6,https://wheresthejump.com/jump-scares-in-the-ward-2010/
+The Wicker Man,Robin Hardy,1973,4,0.5,No,7.6,https://wheresthejump.com/jump-scares-in-the-wicker-man-1973/
+The Witch,Robert Eggers,2015,4,1.5,Yes,6.8,https://wheresthejump.com/jump-scares-in-the-witch-2015/
+The Wolfman,Joe Johnston,2010,18,4,No,5.8,https://wheresthejump.com/jump-scares-in-the-wolfman-2010/
+The Woman in Black,James Watkins,2012,16,4,No,6.5,https://wheresthejump.com/jump-scares-in-the-woman-in-black-2012/
+The Woman in Black 2: Angel of Death,Tom Harper,2014,14,4,No,4.9,https://wheresthejump.com/jump-scares-in-the-woman-in-black-ii-angel-of-death-2014/
+Them (Ils),"David Moreau, Xavier Palud",2006,16,4,No,6.5,https://wheresthejump.com/jump-scares-in-them-2006/
+Thesis (Tesis),Alejandro Amenábar,1996,3,0.5,No,7.5,https://wheresthejump.com/jump-scares-in-thesis-1996/
+They Look Like People,Perry Blackshear,2015,2,0.5,No,6.1,https://wheresthejump.com/jump-scares-in-they-look-like-people-2015/
+Thirteen Ghosts,Steve Beck,2001,17,3,No,5.5,https://wheresthejump.com/jump-scares-in-thirteen-ghosts-2001/
+Timecrimes,Nacho Vigalondo,2007,3,0.5,No,7.2,https://wheresthejump.com/jump-scares-in-timecrimes-2007/
+Tragedy Girls,Tyler Macintyre,2017,8,2,No,6.1,https://wheresthejump.com/jump-scares-in-tragedy-girls-2017/
+Train to Busan,Sang-ho Yeon,2016,4,1,Yes,7.5,https://wheresthejump.com/jump-scares-in-train-to-busan-2016/
+Trash Fire,Richard Bates Jr.,2016,0,0,Yes,5.8,https://wheresthejump.com/jump-scares-in-trash-fire-2016/
+Tremors,Ron Underwood,1990,16,2.5,No,7.1,https://wheresthejump.com/jump-scares-in-tremors-1990/
+Triangle,Christopher Smith,2009,5,1,No,6.9,https://wheresthejump.com/jump-scares-in-triangle-2009/
+Trick 'r Treat,Michael Dougherty,2007,6,2.5,No,6.8,https://wheresthejump.com/jump-scares-in-trick-r-treat-2007
+Truth or Dare,Jeff Wadlow,2018,7,2,No,4.8,https://wheresthejump.com/jump-scares-in-truth-or-dare-2018/
+Tucker and Dale vs. Evil,Eli Craig,2010,9,1.5,No,7.6,https://wheresthejump.com/jump-scares-in-tucker-and-dale-vs-evil-2010/
+Tusk,Kevin Smith,2014,0,0,Yes,5.4,https://wheresthejump.com/jump-scares-in-tusk-2014/
+Under the Shadow,Babak Anvari,2016,9,3.5,Yes,7,https://wheresthejump.com/jump-scares-in-under-the-shadow-2016/
+Unfriended,Leo Gabriadze,2014,5,3,No,5.8,https://wheresthejump.com/jump-scares-in-unfriended-2014/
+Unfriended: Dark Web,Stephen Susco,2018,6,1.5,No,5.5,https://wheresthejump.com/jump-scares-in-unfriended-dark-web-2018/
+Unsane,Steven Soderbergh,2018,2,0.5,No,6.7,https://wheresthejump.com/jump-scares-in-unsane-2018/
+Urban Legend,Jamie Blanks,1998,17,4,No,5.5,https://wheresthejump.com/jump-scares-in-urban-legend-1998/
+Us,Jordan Peele,2019,11,2.5,No,7.4,https://wheresthejump.com/jump-scares-in-us-2019/
+Uzumaki,Higuchinsky,2000,15,3,No,6.2,https://wheresthejump.com/jump-scares-in-uzumaki-2000/
+Vacancy,Nimród Antal,2007,12,2.5,No,6.2,https://wheresthejump.com/jump-scares-in-vacancy-2007/
+Velvet Buzzsaw,Dan Gilroy,2019,10,2.5,No,6.1,https://wheresthejump.com/jump-scares-in-velvet-buzzsaw-2019/
+Veronica,Paco Plaza,2017,10,3,Yes,6.5,https://wheresthejump.com/jump-scares-in-veronica-2017/
+V/H/S,Various Directors,2012,7,3.5,No,5.8,https://wheresthejump.com/jump-scares-in-vhs-2012/
+V/H/S/2,Various Directors,2013,14,4,No,6.1,https://wheresthejump.com/jump-scares-in-vhs-ii-2013/
+Victor Frankenstein,Paul McGuigan,2015,6,1.5,No,6,https://wheresthejump.com/jump-scares-in-victor-frankenstein-2015/
+Viral,"Henry Joost, Ariel Schulman",2016,20,4,No,5.5,https://wheresthejump.com/jump-scares-in-viral-2016/
+Visions,Kevin Greutert,2015,10,3.5,No,5.4,https://wheresthejump.com/jump-scares-in-visions-2015/
+Wait Until Dark,Terence Young,1967,1,0.5,No,7.9,https://wheresthejump.com/jump-scares-in-wait-until-dark-1967/
+We Are Still Here,Ted Geoghegan,2015,12,3,No,5.7,https://wheresthejump.com/jump-scares-in-we-are-still-here-2015/
+Wes Craven's New Nightmare,Wes Craven,1994,11,2.5,No,6.4,https://wheresthejump.com/jump-scares-in-wes-cravens-new-nightmare-1994/
+What Lies Beneath,Robert Zemeckis,2000,16,3,No,6.6,https://wheresthejump.com/jump-scares-in-what-lies-beneath-2000/
+When a Stranger Calls,Fred Walton,1979,5,2,No,6.6,https://wheresthejump.com/jump-scares-in-when-a-stranger-calls-1979/
+Wildling,Fritz Böhm,2018,4,1.5,No,6.1,https://wheresthejump.com/jump-scares-in-wildling-2018/
+Winchester,"Michael Spierig, Peter Spierig",2018,17,4,No,5.4,https://wheresthejump.com/jump-scares-in-winchester-2018/
+Wind Chill,Gregory Jacobs,2007,13,3,No,5.9,https://wheresthejump.com/jump-scares-in-wind-chill-2007/
+Wish Upon,John R. Leonetti,2017,11,2,No,4.8,https://wheresthejump.com/jump-scares-in-wish-upon-2017/
+Wolf Creek,Greg McLean,2005,0,0,No,6.3,https://wheresthejump.com/jump-scares-in-wolf-creek-2005/
+World War Z,Marc Forster,2013,7,2.5,No,7,https://wheresthejump.com/jump-scares-in-world-war-z-2013/
+Would You Rather,David Guy Levy,2012,3,1,Yes,5.8,https://wheresthejump.com/jump-scares-in-would-you-rather-2012/
+Wrong Turn,Rob Schmidt,2003,13,3,No,6.1,https://wheresthejump.com/jump-scares-in-wrong-turn-2003/
+You're Next,Adam Wingard,2011,11,3,No,6.5,https://wheresthejump.com/jump-scares-in-youre-next-2011/
+Zodiac,David Fincher,2007,3,0.5,No,7.7,https://wheresthejump.com/jump-scares-in-zodiac-2007/
+Zombieland,Ruben Fleischer,2009,9,3,No,7.7,https://wheresthejump.com/jump-scares-in-zombieland-2009/
